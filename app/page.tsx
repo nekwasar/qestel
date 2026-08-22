@@ -71,7 +71,6 @@ export default function HomePage() {
       <main>
         <section className="relative overflow-hidden">
           <div className="hero-glow absolute inset-0 -z-10" />
-          <div className="bg-grid-slate bg-grid-fade absolute inset-0 -z-10" />
           <Container className="pt-20 text-center sm:pt-28">
             <Eyebrow>
               <span className="size-1.5 animate-pulse-dot rounded-full bg-indigo-600" />

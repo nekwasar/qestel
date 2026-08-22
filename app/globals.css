@@ -28,18 +28,6 @@ body {
   color: #1e1b4b;
 }
 
-.bg-grid-slate {
-  background-image:
-    linear-gradient(to right, rgb(226 232 240 / 0.55) 1px, transparent 1px),
-    linear-gradient(to bottom, rgb(226 232 240 / 0.55) 1px, transparent 1px);
-  background-size: 56px 56px;
-}
-
-.bg-grid-fade {
-  mask-image: radial-gradient(ellipse 80% 60% at 50% 0%, black 40%, transparent 100%);
-  -webkit-mask-image: radial-gradient(ellipse 80% 60% at 50% 0%, black 40%, transparent 100%);
-}
-
 .hero-glow {
   background:
     radial-gradient(ellipse 45% 40% at 20% 0%, rgb(99 102 241 / 0.14), transparent 60%),
