@@ -1,14 +1,14 @@
 import { Container } from "./ui";
 
 const LOGOS = [
-  { name: "Vantage Cloud", className: "font-semibold tracking-tight" },
-  { name: "Northwind", className: "font-bold tracking-tight" },
-  { name: "Arclight", className: "font-semibold tracking-widest" },
-  { name: "Meridian", className: "font-semibold italic" },
-  { name: "Helios Bio", className: "font-bold tracking-tight" },
-  { name: "Orbital Labs", className: "font-semibold tracking-[0.2em]" },
-  { name: "Strata Health", className: "font-semibold tracking-tight" },
-  { name: "Coreline", className: "font-bold uppercase tracking-wider" },
+  { name: "Veltris Cloud", className: "font-semibold tracking-tight" },
+  { name: "Nordlynx Systems", className: "font-bold tracking-tight" },
+  { name: "Arclune", className: "font-semibold tracking-widest" },
+  { name: "Merivon Capital", className: "font-semibold italic" },
+  { name: "Helvora Bio", className: "font-bold tracking-tight" },
+  { name: "Orvantis Labs", className: "font-semibold tracking-[0.2em]" },
+  { name: "Stralune Health", className: "font-semibold tracking-tight" },
+  { name: "Corvanta", className: "font-bold uppercase tracking-wider" },
 ];
 
 export default function LogoCloud() {

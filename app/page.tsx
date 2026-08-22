@@ -290,7 +290,7 @@ export default function HomePage() {
                           Admin console
                         </p>
                         <p className="text-xs text-slate-500">
-                          acme.com · 1,248 mailboxes
+                          veltris.example · 1,248 mailboxes
                         </p>
                       </div>
                     </div>
@@ -299,7 +299,7 @@ export default function HomePage() {
                         { name: "Employee directory sync", detail: "SCIM · Last sync 2m ago", done: true },
                         { name: "SSO / SAML", detail: "Okta, Entra ID, Google", done: true },
                         { name: "Bulk provisioning", detail: "CSV or API · 12 seats queued", done: true },
-                        { name: "Per-domain routing", detail: "acme.com → EU cluster", done: true },
+                        { name: "Per-domain routing", detail: "veltris.example → EU cluster", done: true },
                       ].map((row) => (
                         <div
                           key={row.name}

@@ -17,7 +17,7 @@ const EMAILS = [
   },
   {
     from: "Amara Okafor · Onboarding",
-    subject: "12 new mailboxes provisioned for Acme Europe",
+    subject: "12 new mailboxes provisioned for Helvora Bio — EU",
     preview: "Provisioning completed in 94 seconds. SPF, DKIM, and DMARC...",
     time: "08:47",
     unread: false,

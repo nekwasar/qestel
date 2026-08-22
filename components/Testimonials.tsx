@@ -6,7 +6,7 @@ const TESTIMONIALS = [
     quote:
       "We migrated 1,200 seats off a legacy provider in a single afternoon. Qestel handled every domain record, every alias, every forward — our team didn't notice a thing.",
     name: "Dana Whitfield",
-    role: "VP of IT, Vantage Cloud",
+    role: "VP of IT, Veltris Cloud",
     initials: "DW",
     color: "bg-indigo-600",
   },
@@ -14,7 +14,7 @@ const TESTIMONIALS = [
     quote:
       "The reason we switched was privacy, plain and simple. Encrypted at rest, no ads, no scanning, and a real person answers support in minutes. It's how email should have been done from the start.",
     name: "Marcus Lee",
-    role: "COO, Meridian Capital",
+    role: "COO, Merivon Capital",
     initials: "ML",
     color: "bg-blue-600",
   },
@@ -22,7 +22,7 @@ const TESTIMONIALS = [
     quote:
       "Their team is white-glove from the first call. Domains, DKIM, SPF, migration — all handled. Our employees got their new mailboxes before lunch. I've never seen onboarding like it.",
     name: "Priya Nair",
-    role: "Head of Operations, Helios Bio",
+    role: "Head of Operations, Helvora Bio",
     initials: "PN",
     color: "bg-indigo-500",
   },
